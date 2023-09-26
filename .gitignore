@@ -1,0 +1,4 @@
+/__pycache__
+/datasets/MNIST
+/datasets/casia_web_face_crop_dataset
+test.py
